@@ -101,10 +101,5 @@ if you add any item
 ### Basket With Item
 ![](screenshots/basket.png)
 
-## Contact
-Pankaj Bist- pankajbist000@gmail.com
-
-Project Link: [https://github.com/Pankajbist/Online-Store](https://github.com/Pankajbist/Online-Store)
-
 
 ### Thank You 
